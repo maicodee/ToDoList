@@ -7,9 +7,14 @@ Functionality:   1) Take input/task from user,
 
 
 # Output Demo
-https://github.com/maicodee/ToDoList/assets/68491981/fa4064e1-d996-4d44-a7a0-d485e4affb87
+
+
+
+https://github.com/maicodee/ToDoList/assets/68491981/a5437832-49cf-481a-bcf2-ff72a7b3a501
+
 
 # Images
 
-![Screenshot (914)](https://github.com/maicodee/ToDoList/assets/68491981/bbe30184-092a-45ed-9bbe-bb63d21461d9)
-![Screenshot (915)](https://github.com/maicodee/ToDoList/assets/68491981/89f6a85f-4dfd-4d19-8614-de265f41287a)
+
+![Outlook](https://github.com/maicodee/ToDoList/assets/68491981/4a309453-7db9-499f-8c61-156e8710ab15)
+![Outlook2](https://github.com/maicodee/ToDoList/assets/68491981/0f240f66-7606-49bc-ab5d-3c03ba85c477)
